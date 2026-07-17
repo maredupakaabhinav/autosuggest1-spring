@@ -1,1 +1,3 @@
-alert("verify you are not a robot")
+// alert("Hello guysss");
+
+console.log("hello from JS!")
